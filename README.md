@@ -20,5 +20,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🔨 Desenvolvido por
 
-- Leonardo Furtado
-- Willian Santana
+Este projeto foi desenvolvido em colaboração com o Professor Caio Malheiros, que propôs o desenvolvimento da funcionalidade de restauração de senha no projeto, então eu e meu colega Willian Santana implementamnos esta nova funcionalidade.
