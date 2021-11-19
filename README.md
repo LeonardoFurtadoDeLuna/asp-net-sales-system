@@ -20,4 +20,4 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🔨 Desenvolvido por
 
-Este projeto foi desenvolvido em colaboração com o Professor Caio Malheiros da Fatec Santana de Parnaíba, que propôs o desenvolvimento da funcionalidade de restauração de senha no projeto, então eu e meu colega Willian Santana implementamnos esta nova funcionalidade.
+Este projeto foi desenvolvido em colaboração com o Professor Caio Malheiros da Fatec Santana de Parnaíba, que propôs o desenvolvimento da funcionalidade de restauração de senha no projeto, então eu e meu colega Willian Santana implementamos esta nova funcionalidade.
